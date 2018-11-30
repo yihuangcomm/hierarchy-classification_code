@@ -4,7 +4,7 @@ import os
 import sys
 import time
 import shutil # we also need this
-
+#it is very interesting
 import tensorflow as tf
 
 import logging
