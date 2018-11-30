@@ -3,7 +3,7 @@ import pandas
 import os
 import sys
 import time
-import shutil
+# import shutil
 
 import tensorflow as tf
 
